@@ -1,0 +1,21 @@
+export const jokes = ['-Não beba dirigindo! Você pode derrubar a cerveja.',
+  '– Bebo porque sou egocêntrico. Gosto quando o mundo gira ao meu redor.',
+  ' -Eu bebo para dormir e acordo para beber.',
+  '-Aprenda uma coisa: o mundo não gira em torno de você. Só quando você bebe demais',
+  '-Se for dirigir não beba, se for beber me chame!',
+  '-Realidade é um estado causado pela falta de álcool.',
+  '-Deixei a bebida. O ruim é que não lembro onde.',
+  '-Evite a ressaca, mantenha-se bêbado!!',
+  '-Imagine a vida sem cerveja, agora se dê um tapa e nunca mais faça isso.'];
+
+export const imagesMen = ['https://thumbs.dreamstime.com/b/smiling-man-holds-mug-beer-one-hand-other-hand-shows-everything-fine-laughing-man-holds-mug-beer-191152057.jpg',
+  'https://bigwing.com/wp-content/uploads/2015/05/two-guys-laughing-and-drinking-beer.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjQ2pPlwMp9b3KSlYRn0Hu2b7D3nZHhpQjrPEBN237j2sLpLQU8GSlHuGd0mwULKVg1Y&usqp=CAU',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJk1kA3BbwVfwoenngKBi9UbCvS7Wo0gNYXK9KFgTTtPiMcnbKubLv4B-Pol-E3rfLEo&usqp=CAU',
+  'https://i.pinimg.com/originals/6d/11/1d/6d111db0776c277417aa98efc3a271c9.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFEL5lr59SkgOAX1SSx68P8rE_DBvkKbBXa9TBuop0YLp56dsDFNJo4xViymXSMcZdsA&usqp=CAU',
+  'https://img.freepik.com/free-photo/funny-young-caucasian-male-feeling-happy-relaxed-anticipating-fresh-cold-beer-his-hands-after-hard-working-day-closing-eyes-enjoyment-bearded-overweight-redhead-man-drinking-lager_273609-450.jpg?size=626&ext=jpg&ga=GA1.2.1817377898.1620432000',
+  'https://manofmany.com/wp-content/uploads/2019/10/Funniest-Names-for-Being-Drunk-2.jpg',
+  'https://thewondrous.com/wp-content/uploads/2015/04/picture-of-drunk-person.jpg',
+  'https://www.thesun.co.uk/wp-content/uploads/2019/04/NINTCHDBPICT0004819017731.jpg',
+];
