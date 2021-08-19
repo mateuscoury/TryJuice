@@ -1,5 +1,9 @@
 ### Projeto TryJuice
 Projeto Full Stack da Trybe utilizando as tecnologias React.Js,Node.js,express,socket e banco de dados com o sequelize.Nele desenvolvemos um aplicativo de delivery de cerveja no qual a uma comunicação em tempo real entre pessoa usuária e vendedora fazendo o fluxo completo desda compra do usuario até a entrega do pedido.
+Participações:<br/>
+https://github.com/NandaTMarques<br/>
+https://github.com/emassaki<br/>
+https://github.com/ana-karine<br/>
 
 ## COMO USAR
 *Git clone no repositório <br/>
